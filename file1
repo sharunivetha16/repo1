@@ -1,1 +1,10 @@
-
+#include<stdio.h>
+#include<conio.H>
+int main()
+{
+int a=42;
+int b=76;
+int c;
+c = a+b;
+printf("sum of two numbers:%d",c)
+return 0;
